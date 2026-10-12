@@ -195,6 +195,7 @@ The CSV files and chart shown above are examples; generated files appear only wh
 - Allow users to choose more aggregation methods and chart settings.
 - Add automated tests and more detailed input validation.
 - Add an option to save summary statistics to a report.
+- | Sales | SalesID|
 
 ## Learning Purpose
 
